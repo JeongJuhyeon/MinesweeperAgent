@@ -1,0 +1,1 @@
+When using socket.io, never name a message "connect".
